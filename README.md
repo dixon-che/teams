@@ -5,13 +5,13 @@ Initial projects and teams (proposal)
     * Ksenya Medynska - PM
     * Budget & fundraising team: Ksenya, Hotsyk, Julia Saviuk, Yegor Nazarkin
     * Speakers team: Hotsyk, Yegor Nazarkin, Mikhail Kashkin, Max Klymyshyn, Paul Kolomiets
-    * Participants support team: Ksenya, Paul Kolomiets, Sasha Lyabah, Ivan Kolodyazhny
+    * Participants support team: Ksenya, Paul Kolomiets, Sasha Lyabah, Ivan Kolodyazhny, Taras Lyapun
     * Additional activities team: Ksenya, Hotsyk, Julia, Marichka Dzhala
     * Tech team: Ksenya, Hotsyk, ?
 
 * UAPUG Infrastructure team:
     * Yegor Nazarkin: PM
-    * Developers: Hotsyk, Nazarkin, Kashkin, Klymyshyn, ?
+    * Developers: Hotsyk, Nazarkin, Kashkin, Klymyshyn, Taras Lyapun, ?
 
 * UAPUG budget and fundraising team:
     * Volodymyr Hotsyk, Yegor Nazarkin, Julia Saviuk
