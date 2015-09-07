@@ -29,7 +29,7 @@ Initial projects and teams (proposal)
     * Yegor Nazarkin, Max Klymyshyn
 
 * Dnepr.py team:
-    * Mikhail Kashkin, Sasha Lyabah, Dima Malenko
+    * Mikhail Kashkin, Sasha Lyabah, Dima Malenko, Alexey Moskalenko
 
 * DjangoGirls Lviv team:
     * Marichka Dzhala
