@@ -21,6 +21,7 @@ Initial projects and teams (proposal)
 
 * Kharkiv.py team:
     * Ivan Kolodyazhny
+    * Oleksiy Radchenko
 
 * Khmelnitskiy.py team:
     * Taras Lyapun
@@ -35,6 +36,13 @@ Initial projects and teams (proposal)
     * Marichka Dzhala
 
 * DjangoGirls Kharkiv team:
+    * Oleksiy Radchenko
+    * Olena Persianova
+    * Nikolay Borovenskiy
+
+* DjangoGirls Dnepr team:
+    * Sasha Lyabah
+    * Mikhail Kashkin
     * Oleksiy Radchenko
 
 * DjangoGirls Kyiv team (postponed)
